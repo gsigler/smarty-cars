@@ -1,24 +1,48 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Link from "./components/Link";
+import Separator from "./components/Separator";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="grid grid-cols-3">
+      <Link
+        url="https://electrek.co/2022/06/15/tesla-tsla-increases-electric-car-prices-across-lineup/"
+        text="Tesla rises prices again..."
+      />
+      <Link
+        url="https://electrek.co/2022/06/15/tesla-tsla-increases-electric-car-prices-across-lineup/"
+        text="Tesla rises prices again..."
+      />
+      <Link
+        url="https://electrek.co/2022/06/15/tesla-tsla-increases-electric-car-prices-across-lineup/"
+        text="Tesla rises prices again..."
+      />
+      <Separator />
+      <Link
+        url="https://electrek.co/2022/06/15/tesla-tsla-increases-electric-car-prices-across-lineup/"
+        text="Tesla rises prices again..."
+      />
+      <Link
+        url="https://electrek.co/2022/06/15/tesla-tsla-increases-electric-car-prices-across-lineup/"
+        text="Tesla rises prices again..."
+      />
+      <Link
+        url="https://electrek.co/2022/06/15/tesla-tsla-increases-electric-car-prices-across-lineup/"
+        text="Tesla rises prices again..."
+      />
+      <h1>Smarty Cars</h1>
+      <Link
+        url="https://electrek.co/2022/06/15/tesla-tsla-increases-electric-car-prices-across-lineup/"
+        text="Tesla rises prices again..."
+      />
+      <Link
+        url="https://electrek.co/2022/06/15/tesla-tsla-increases-electric-car-prices-across-lineup/"
+        text="Tesla rises prices again..."
+      />
+      <Link
+        url="https://electrek.co/2022/06/15/tesla-tsla-increases-electric-car-prices-across-lineup/"
+        text="Tesla rises prices again..."
+      />
     </div>
   );
 }
