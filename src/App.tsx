@@ -1,48 +1,18 @@
-import "./App.css";
-import Link from "./components/Link";
-import Separator from "./components/Separator";
+import Section from "./components/Section";
+import stories from "./Stories.json";
 
 function App() {
+
   return (
-    <div className="grid grid-cols-3">
-      <Link
-        url="https://electrek.co/2022/06/15/tesla-tsla-increases-electric-car-prices-across-lineup/"
-        text="Tesla rises prices again..."
-      />
-      <Link
-        url="https://electrek.co/2022/06/15/tesla-tsla-increases-electric-car-prices-across-lineup/"
-        text="Tesla rises prices again..."
-      />
-      <Link
-        url="https://electrek.co/2022/06/15/tesla-tsla-increases-electric-car-prices-across-lineup/"
-        text="Tesla rises prices again..."
-      />
-      <Separator />
-      <Link
-        url="https://electrek.co/2022/06/15/tesla-tsla-increases-electric-car-prices-across-lineup/"
-        text="Tesla rises prices again..."
-      />
-      <Link
-        url="https://electrek.co/2022/06/15/tesla-tsla-increases-electric-car-prices-across-lineup/"
-        text="Tesla rises prices again..."
-      />
-      <Link
-        url="https://electrek.co/2022/06/15/tesla-tsla-increases-electric-car-prices-across-lineup/"
-        text="Tesla rises prices again..."
-      />
-      <h1>Smarty Cars</h1>
-      <Link
-        url="https://electrek.co/2022/06/15/tesla-tsla-increases-electric-car-prices-across-lineup/"
-        text="Tesla rises prices again..."
-      />
-      <Link
-        url="https://electrek.co/2022/06/15/tesla-tsla-increases-electric-car-prices-across-lineup/"
-        text="Tesla rises prices again..."
-      />
-      <Link
-        url="https://electrek.co/2022/06/15/tesla-tsla-increases-electric-car-prices-across-lineup/"
-        text="Tesla rises prices again..."
-      />
+    <div className="">
+      <Section stories={stories.breaking} />
+      <Section stories={stories.headlines}/> 
+      <h1 className="text-7xl p-6">Smarty Cars</h1>
+      <div className="grid grid-cols-3">
+        <Section stories={stories.leftSection} />
+        <Section stories={stories.middleSection} />
+        <Section stories={stories.rightSection} />
+      </div>
     </div>
   );
 }
