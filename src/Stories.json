@@ -1,27 +1,64 @@
 {
-  "breaking":[{
-    "headline": "foobar asdf asdf",
-    "image": "images/tesla.png",
-    "link": ""
-  },{}],
-  "headlines":[{
-    "headline": "foobar asdf asdf",
-    "image": "",
-    "link": "~"
-  }],  
-  "leftSection":[{
-    "headline": "foobar asdf asdf",
-    "image": "",
-    "link": "~"
-  }], 
-  "middleSection":[{
-    "headline": "foobar asdf asdf",
-    "image": "",
-    "link": "~"
-  }],
-  "rightSection":[{
-    "headline": "foobar asdf asdf",
-    "image": "",
-    "link": "~"
-  }]
+  "breaking": [
+    {
+      "headline": "foobar asdf asdf",
+      "image": "",
+      "link": "",
+      "color": "text-orange-500"
+    }
+  ],
+  "headlines": [
+    {
+      "headline": "foobar asdf asdf",
+      "image": "",
+      "link": "~"
+    }
+  ],
+  "leftSection": [
+    {
+      "headline": "foobar asdf asdf",
+      "image": "",
+      "link": "~"
+    }
+  ],
+  "middleSection": [
+    {
+      "headline": "foobar asdf asdf",
+      "image": "",
+      "link": "~"
+    },
+    {
+      "headline": "foobar asdf asdf",
+      "image": "",
+      "link": "~"
+    },
+    {
+      "headline": "foobar asdf asdf",
+      "image": "",
+      "link": "~"
+    },
+    {},
+    {
+      "headline": "foobar asdf asdf",
+      "image": "",
+      "link": "~"
+    },
+    {
+      "headline": "foobar asdf asdf",
+      "image": "",
+      "link": "~"
+    },
+    {
+      "headline": "foobar asdf asdf",
+      "image": "",
+      "link": "~"
+    }
+  ],
+  "rightSection": [
+    {
+      "headline": "foobar asdf asdf",
+      "image": "",
+      "link": "~"
+    }
+  ]
 }
