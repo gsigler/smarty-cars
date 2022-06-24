@@ -1,7 +1,7 @@
 {
   "breaking": [
     {
-      "headline": "foobar asdf asdf",
+      "headline": "foobar asdf asdf 🔥",
       "image": "",
       "link": "",
       "color": "text-orange-500"
@@ -16,49 +16,57 @@
   ],
   "leftSection": [
     {
-      "headline": "foobar asdf asdf",
+      "headline": "Tesla controls 75% of EV market. But won't for long?",
+      "link": "https://www.businessinsider.com/tesla-will-lose-crown-biggest-electric-car-maker-2024-study-2022-6"
+    },
+    {
+      "headline": "Cybertruck may hit the roads in 2023. Design 'locked'...",
       "image": "",
-      "link": "~"
+      "link": "https://electrek.co/2022/06/22/tesla-cybertruck-design-locked-new-timeline/"
+    },
+    {
+      "headline": "Tesla powerwall owners could help fix California's grid...",
+      "link": "https://electrek.co/2022/06/23/tesla-virtual-power-plant-pays-powerwall-owners-help-end-brownouts/"
+    },
+    {},
+    {
+      "headline": "Toyota's bZ4X recalled, 'Wheels may fall off'...",
+      "link": "https://electrek.co/2022/06/23/toyota-recalls-bz4x-electric-cars-wheels-falling-off/"
+    },
+    {},
+    {
+      "headline": "Wind turbine to power first charge of new Rivian vehicles...",
+      "link": "https://electrek.co/2022/06/22/rivian-wind-turbine-to-help-power-electric-vehicle-manufacturing/"
     }
   ],
   "middleSection": [
     {
-      "headline": "foobar asdf asdf",
+      "headline": "Polestar stock PSNY expected land on friday...",
       "image": "",
-      "link": "~"
-    },
-    {
-      "headline": "foobar asdf asdf",
-      "image": "",
-      "link": "~"
-    },
-    {
-      "headline": "foobar asdf asdf",
-      "image": "",
-      "link": "~"
+      "link": "https://www.marketwatch.com/story/polestar-shares-seen-making-their-debut-on-nasdaq-june-24-271655933341"
     },
     {},
     {
-      "headline": "foobar asdf asdf",
+      "headline": "Ready to join the EV party? You may have to wait...",
       "image": "",
-      "link": "~"
-    },
-    {
-      "headline": "foobar asdf asdf",
-      "image": "",
-      "link": "~"
-    },
-    {
-      "headline": "foobar asdf asdf",
-      "image": "",
-      "link": "~"
+      "link": "https://techcrunch.com/2022/06/23/want-an-ev-you-may-have-to-wait/"
     }
   ],
   "rightSection": [
     {
-      "headline": "foobar asdf asdf",
+      "headline": "1 in 3 cars will be electric by 2028...",
       "image": "",
-      "link": "~"
+      "link": "https://www.teslarati.com/one-in-three-vehicles-will-be-electric-globally-by-2028-alixpartners/"
+    },
+    {},
+    {
+      "headline": "Electric highway of the future coming to the mountain west...",
+      "link": "https://www.ksl.com/article/50427002/8-states-powering-this-initiative-to-provide-ev-corridors-throughout-the-mountain-west"
+    },
+    {},
+    {
+      "headline": "CATL's new battery 600+ miles range...",
+      "link": "https://www.teslarati.com/catl-launches-ctp-3-0-battery/"
     }
   ]
 }

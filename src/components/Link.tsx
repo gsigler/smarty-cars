@@ -5,7 +5,12 @@ interface LinkProps {
 }
 
 function Link(props: LinkProps) {
-  return <a className={props.color} href={props.url}>{props.title}</a>;
+  let className = props.color + " p-0.5 pb-1";
+  return (
+    <a className={className} href={props.url}>
+      {props.title}
+    </a>
+  );
 }
 
 export default Link;
