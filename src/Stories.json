@@ -4,69 +4,111 @@
       "headline": "foobar asdf asdf 🔥",
       "image": "",
       "link": "",
-      "color": "text-orange-500"
+      "color": "text-orange-500",
+      "posted": "2022-06-25"
     }
   ],
   "headlines": [
     {
       "headline": "foobar asdf asdf",
       "image": "",
-      "link": "~"
+      "link": "~",
+      "posted": "2022-06-25"
     }
   ],
   "leftSection": [
     {
+      "headline": "Advanced Autopilot back?",
+      "link": "https://electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/",
+      "image": "smarty-cars/images/tesla-auto-pilot.png",
+      "posted": "2022-06-25"
+    },
+    {
       "headline": "Tesla controls 75% of EV market. But won't for long?",
-      "link": "https://www.businessinsider.com/tesla-will-lose-crown-biggest-electric-car-maker-2024-study-2022-6"
+      "link": "https://www.businessinsider.com/tesla-will-lose-crown-biggest-electric-car-maker-2024-study-2022-6",
+      "posted": "2022-06-25"
     },
     {
       "headline": "Cybertruck may hit the roads in 2023. Design 'locked'...",
       "image": "",
-      "link": "https://electrek.co/2022/06/22/tesla-cybertruck-design-locked-new-timeline/"
+      "link": "https://electrek.co/2022/06/22/tesla-cybertruck-design-locked-new-timeline/",
+      "posted": "2022-06-25"
     },
     {
       "headline": "Tesla powerwall owners could help fix California's grid...",
-      "link": "https://electrek.co/2022/06/23/tesla-virtual-power-plant-pays-powerwall-owners-help-end-brownouts/"
+      "link": "https://electrek.co/2022/06/23/tesla-virtual-power-plant-pays-powerwall-owners-help-end-brownouts/",
+      "posted": "2022-06-25"
     },
     {},
     {
-      "headline": "Toyota's bZ4X recalled, 'Wheels may fall off'...",
-      "link": "https://electrek.co/2022/06/23/toyota-recalls-bz4x-electric-cars-wheels-falling-off/"
+      "headline": "Toyota's bZ4X review. Toyota plays it safe...",
+      "link": "https://www.theverge.com/23180408/toyota-bz4x-electric-suv-review-specs-price",
+      "posted": "2022-06-25"
+    },
+    {
+      "headline": "Recalled?! 'Wheels may fall off'...",
+      "link": "https://electrek.co/2022/06/23/toyota-recalls-bz4x-electric-cars-wheels-falling-off/",
+      "posted": "2022-06-25"
     },
     {},
     {
       "headline": "Wind turbine to power first charge of new Rivian vehicles...",
-      "link": "https://electrek.co/2022/06/22/rivian-wind-turbine-to-help-power-electric-vehicle-manufacturing/"
+      "link": "https://electrek.co/2022/06/22/rivian-wind-turbine-to-help-power-electric-vehicle-manufacturing/",
+      "posted": "2022-06-25"
     }
   ],
   "middleSection": [
     {
       "headline": "Polestar stock PSNY expected land on friday...",
       "image": "",
-      "link": "https://www.marketwatch.com/story/polestar-shares-seen-making-their-debut-on-nasdaq-june-24-271655933341"
+      "link": "https://www.marketwatch.com/story/polestar-shares-seen-making-their-debut-on-nasdaq-june-24-271655933341",
+      "posted": "2022-06-25"
+    },
+    {
+      "headline": "Update goes live, to turbulent day...",
+      "image": "",
+      "link": "https://www.barrons.com/articles/polestar-stock-ticker-price-electric-car-51656017809?mod=Searchresults",
+      "posted": "2022-06-25"
     },
     {},
     {
       "headline": "Ready to join the EV party? You may have to wait...",
       "image": "",
-      "link": "https://techcrunch.com/2022/06/23/want-an-ev-you-may-have-to-wait/"
+      "link": "https://techcrunch.com/2022/06/23/want-an-ev-you-may-have-to-wait/",
+      "posted": "2022-06-25"
+    },
+    {},
+    {
+      "headline": "Can I plug in my car?",
+      "image": "",
+      "link": "https://slate.com/technology/2022/06/electric-vehicle-charging-etiquette-guests.html",
+      "posted": "2022-06-25"
     }
   ],
   "rightSection": [
     {
       "headline": "1 in 3 cars will be electric by 2028...",
       "image": "",
-      "link": "https://www.teslarati.com/one-in-three-vehicles-will-be-electric-globally-by-2028-alixpartners/"
+      "link": "https://www.teslarati.com/one-in-three-vehicles-will-be-electric-globally-by-2028-alixpartners/",
+      "posted": "2022-06-25"
     },
     {},
     {
       "headline": "Electric highway of the future coming to the mountain west...",
-      "link": "https://www.ksl.com/article/50427002/8-states-powering-this-initiative-to-provide-ev-corridors-throughout-the-mountain-west"
+      "link": "https://www.ksl.com/article/50427002/8-states-powering-this-initiative-to-provide-ev-corridors-throughout-the-mountain-west",
+      "posted": "2022-06-25"
     },
     {},
     {
       "headline": "CATL's new battery 600+ miles range...",
-      "link": "https://www.teslarati.com/catl-launches-ctp-3-0-battery/"
+      "link": "https://www.teslarati.com/catl-launches-ctp-3-0-battery/",
+      "posted": "2022-06-25"
+    },
+    {},
+    {
+      "headline": "Cadillac Celestiq to cost 300K+. Will come with 'ultra cruise'...",
+      "link": "https://www.theverge.com/2022/6/24/23180803/cadillac-ev-celestiq-price-production-rumor-ultra-cruise",
+      "posted": "2022-06-25"
     }
   ]
 }

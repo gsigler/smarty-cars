@@ -5,7 +5,7 @@ interface LinkProps {
 }
 
 function Link(props: LinkProps) {
-  let className = props.color + " p-0.5 pb-1";
+  let className = props.color;
   return (
     <a className={className} href={props.url}>
       {props.title}
