@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/smarty-cars/static/css/main.3a889932.css",
-    "main.js": "/smarty-cars/static/js/main.c0610fae.js",
+    "main.css": "/smarty-cars/static/css/main.e3bd307e.css",
+    "main.js": "/smarty-cars/static/js/main.905bcca8.js",
     "static/js/787.b89642b9.chunk.js": "/smarty-cars/static/js/787.b89642b9.chunk.js",
     "index.html": "/smarty-cars/index.html",
-    "main.3a889932.css.map": "/smarty-cars/static/css/main.3a889932.css.map",
-    "main.c0610fae.js.map": "/smarty-cars/static/js/main.c0610fae.js.map",
+    "main.e3bd307e.css.map": "/smarty-cars/static/css/main.e3bd307e.css.map",
+    "main.905bcca8.js.map": "/smarty-cars/static/js/main.905bcca8.js.map",
     "787.b89642b9.chunk.js.map": "/smarty-cars/static/js/787.b89642b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a889932.css",
-    "static/js/main.c0610fae.js"
+    "static/css/main.e3bd307e.css",
+    "static/js/main.905bcca8.js"
   ]
 }
