@@ -1,26 +1,11 @@
 {
-  "breaking": [
-    {
-      "headline": "foobar asdf asdf 🔥",
-      "image": "",
-      "link": "",
-      "color": "text-orange-500",
-      "posted": "2022-06-25"
-    }
-  ],
-  "headlines": [
-    {
-      "headline": "foobar asdf asdf",
-      "image": "",
-      "link": "~",
-      "posted": "2022-06-25"
-    }
-  ],
+  "breaking": [],
+  "headlines": [],
   "leftSection": [
     {
       "headline": "Advanced Autopilot back?",
       "link": "https://electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/",
-      "image": "smarty-cars/images/tesla-auto-pilot.png",
+      "image": "smarty-cars/tesla-auto-pilot.png",
       "posted": "2022-06-25"
     },
     {
@@ -72,6 +57,11 @@
     },
     {},
     {
+      "headline": "Which Car Will Better Survive Total Infrastructure Collapse: Gas or Electric?",
+      "link": "https://www.vice.com/amp/en/article/epxp7p/which-car-will-better-survive-total-infrastructure-collapse-gas-or-electric"
+    },
+    {},
+    {
       "headline": "Ready to join the EV party? You may have to wait...",
       "image": "",
       "link": "https://techcrunch.com/2022/06/23/want-an-ev-you-may-have-to-wait/",
@@ -83,9 +73,31 @@
       "image": "",
       "link": "https://slate.com/technology/2022/06/electric-vehicle-charging-etiquette-guests.html",
       "posted": "2022-06-25"
+    },
+    {},
+    {
+      "headline": "A 50 year old law is keeping chargers out of rest stops...",
+      "link": "https://www.vice.com/amp/en/article/dy7gmx/big-truck-stop-lobby-a-huge-roadblock-for-rural-electric-vehicle-chargers"
     }
   ],
   "rightSection": [
+    {
+      "headline": "Everyone is making EV's...",
+      "link": "https://mashable.com/article/traditional-carmakers-going-all-electric-vehicles",
+      "posted": "2022-06-26"
+    },
+    {
+      "headline": "Where will all the batteries come from?",
+      "link": "https://www.protocol.com/bulletins/rivian-ev-battery-shortage",
+      "posted": "2022-06-26"
+    },
+    {
+      "headline": "'Battery hogs' are making matters worse...",
+      "image": "",
+      "link": "https://www.vice.com/en/article/3abmwy/there-arent-enough-batteries-in-the-world-to-power-our-huge-cars",
+      "posted": "2022-06-26"
+    },
+    {},
     {
       "headline": "1 in 3 cars will be electric by 2028...",
       "image": "",

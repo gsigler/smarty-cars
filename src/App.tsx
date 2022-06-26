@@ -9,10 +9,10 @@ function App() {
         <h1 className="text-2xl p-6 text-center pb-0">
           <Section stories={stories.headlines} />
         </h1>
-        <h1 className="text-7xl p-20 pt-0 text-center  font-['Press_Start_2P']">
+        <h1 className="text-2xl md:text-7xl md:p-20 p-2 pt-0 text-center font-['Press_Start_2P']">
           Smarty Cars
         </h1>
-        <div className="flex">
+        <div className="flex flex-col md:flex-row">
           <div className="grow">
             <Section stories={stories.leftSection} />
           </div>
